@@ -1,34 +1,35 @@
-# Excel-Data-Cleaning-Transformation-Project
-This project focuses on cleaning and transforming a raw dataset using Microsoft Excel. The goal was to improve data quality and prepare the dataset for analysis.
+# 📊 Excel Data Cleaning Project
 
-🛠️ Tasks Performed
-Created an Excel Table
-Used Find & Replace
-Removed extra spaces
-Identified missing values
-Removed duplicates
-Standardized Gender values
-Checked invalid ages
-Cleaned phone numbers
-Standardized date formats
-Sorted data by Amount
+## 📌 Overview
 
+This project focuses on cleaning and preparing raw data using **Microsoft Excel**. The goal was to improve data quality and make the dataset ready for analysis.
 
+## 🛠️ Tasks Performed
 
-⭐ Additional Columns Created
-Clean Name
-Email Length
-Age Check
-Amount Category
+* Created an Excel Table
+* Used Find & Replace
+* Removed extra spaces
+* Identified missing values
+* Removed duplicates
+* Standardized Gender values
+* Checked invalid ages
+* Cleaned phone numbers
+* Standardized date formats
+* Sorted data by Amount
 
+## ⭐ Additional Columns Created
 
+* Clean Name
+* Email Length
+* Age Check
+* Amount Category
 
-🛠️ Tools & Skills
+## 🛠️ Tools & Skills
 
-Microsoft Excel | Data Cleaning | Data Validation | Data Transformation | Data Preprocessing | Excel Formulas
+**Microsoft Excel | Data Cleaning | Data Validation | Data Transformation | Data Preprocessing | Excel Formulas**
 
-🎯 Outcome
+## 🎯 Outcome
 
-Successfully transformed a raw and inconsistent dataset into a clean, structured, and analysis-ready dataset.
+Successfully transformed a raw and inconsistent dataset into a **clean, structured, and analysis-ready dataset**.
 
-This project helped me strengthen my practical skills in Excel and Data Cleaning.
+This project helped me strengthen my practical skills in **Excel and Data Cleaning**.
