@@ -12,11 +12,17 @@ Checked invalid ages
 Cleaned phone numbers
 Standardized date formats
 Sorted data by Amount
+
+
+
 ⭐ Additional Columns Created
 Clean Name
 Email Length
 Age Check
 Amount Category
+
+
+
 🛠️ Tools & Skills
 
 Microsoft Excel | Data Cleaning | Data Validation | Data Transformation | Data Preprocessing | Excel Formulas
